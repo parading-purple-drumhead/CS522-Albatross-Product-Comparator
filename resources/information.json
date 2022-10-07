@@ -1,0 +1,619 @@
+{
+    "data": {
+        "phones": [
+            {
+                "name": "iPhone 14 Pro Max",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 2149
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 2099
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+                "url": "apple_iphone_14_pro_max-11773",
+                "display_size": 6.7,
+                "processor": {
+                    "name": "Apple A16 Bionic",
+                    "rank": 1
+                },
+                "battery": "4323 mAh",
+                "storage": "1024 GB",
+                "memory": "6 GB",
+                "brand": "Apple",
+                "colors": [
+                    "blue",
+                    "red",
+                    "black",
+                    "grey",
+                    "gold",
+                    "purple"
+                ],
+                "ratings": [
+                    {
+                        "5": "78",
+                        "4": "63",
+                        "3": "18",
+                        "2": "10",
+                        "1": "35"
+                    }
+                ]
+            },
+            {
+                "name": "iPhone 13 Pro Max",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1599
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 1399
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+                "url": "apple_iphone_13_pro_max-11089",
+                "display_size": 6.7,
+                "processor": {
+                    "name": "Apple A15 Bionic",
+                    "rank": 2
+                },
+                "battery": "4323 mAh",
+                "storage": "1024 GB",
+                "memory": "6 GB",
+                "brand": "Apple",
+                "colors": [
+                    "green",
+                    "gold",
+                    "graphite",
+                    "blue",
+                    "silver"
+                ],
+                "ratings": [
+                    {
+                        "5": "1008",
+                        "4": "586",
+                        "3": "114",
+                        "2": "55",
+                        "1": "12"
+                    }
+                ]
+            },
+            {
+                "name": "Pixel 6 Pro",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 895
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 999
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+                "url": "google_pixel_6_pro-10918",
+                "display_size": 6.7,
+                "processor": {
+                    "name": "Google Tensor",
+                    "rank": 4
+                },
+                "battery": "5000 mAh",
+                "storage": "256 GB",
+                "memory": "12 GB",
+                "brand": "Google",
+                "colors": [
+                    "white",
+                    "red",
+                    "black",
+                    "silver",
+                    "gold",
+                    "blue"
+                ],
+                "ratings": [
+                    {
+                        "5": "181",
+                        "4": "38",
+                        "3": "15",
+                        "2": "13",
+                        "1": "35"
+                    }
+                ]
+            },
+            {
+                "name": "Pixel 5a 5G",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 349
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 349
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5a-5g.jpg",
+                "url": "google_pixel_5a_5g-11059",
+                "display_size": 6.34,
+                "processor": {
+                    "name": "Google Tensor",
+                    "rank": 4
+                },
+                "battery": "4400 mAh",
+                "storage": "128 GB",
+                "memory": "6GB",
+                "brand": "Google",
+                "colors": [
+                    "blue",
+                    "green",
+                    "black",
+                    "white"
+                ],
+                "ratings": [
+                    {
+                        "5": "297",
+                        "4": "92",
+                        "3": "33",
+                        "2": "23",
+                        "1": "30"
+                    }
+                ]
+            },
+            {
+                "name": "OnePlus 10T",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 745
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 749
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg",
+                "url": "oneplus_10t-11622",
+                "display_size": 6.7,
+                "processor": {
+                    "name": "Snapdragon 8+ Gen 1",
+                    "rank": 3
+                },
+                "battery": "4800 mAh",
+                "storage": "256 GB",
+                "memory": "16 GB",
+                "brand": "OnePlus",
+                "colors": [
+                    "green",
+                    "black"
+                ],
+                "ratings": [
+                    {
+                        "5": "9",
+                        "4": "0",
+                        "3": "0",
+                        "2": "0",
+                        "1": "1"
+                    }
+                ]
+            },
+            {
+                "name": "OnePlus 10 Pro",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 869
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 799
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg",
+                "url": "oneplus_10_pro-11234",
+                "display_size": 6.7,
+                "processor": {
+                    "name": "Snapdragon 8 Gen 1",
+                    "rank": 3
+                },
+                "battery": "5000 mAh",
+                "storage": "512 GB",
+                "memory": "12 GB",
+                "brand": "OnePlus",
+                "colors": [
+                    "green",
+                    "black"
+                ],
+                "ratings": [
+                    {
+                        "5": "176",
+                        "4": "36",
+                        "3": "8",
+                        "2": "9",
+                        "1": "22"
+                    }
+                ]
+            },
+            {
+                "name": "Samsung Galaxy S22 Ultra 5G",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1175
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 1049
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg",
+                "url": "samsung_galaxy_s22_ultra_5g-11251",
+                "display_size": 6.8,
+                "processor": {
+                    "name": "Exynos 2200",
+                    "rank": 5
+                },
+                "battery": "5000 mAh",
+                "storage": "512 GB",
+                "memory": "12 GB",
+                "brand": "Samsung",
+                "colors": [
+                    "blue",
+                    "white",
+                    "black",
+                    "green",
+                    "gold",
+                    "purple"
+                ],
+                "ratings": [
+                    {
+                        "5": "322",
+                        "4": "45",
+                        "3": "10",
+                        "2": "6",
+                        "1": "23"
+                    }
+                ]
+            },
+            {
+                "name": "Samsung Galaxy S22+ 5G",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 849
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 749
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-plus-5g.jpg",
+                "url": "samsung_galaxy_s22+_5g-11252",
+                "display_size": 6.6,
+                "processor": {
+                    "name": "Exynos 2200",
+                    "rank": 5
+                },
+                "battery": "4500 mAh",
+                "storage": "128 GB",
+                "memory": "8 GB",
+                "brand": "Samsung",
+                "colors": [
+                    "blue",
+                    "green",
+                    "black",
+                    "white",
+                    "gold",
+                    "burgandy"
+                ],
+                "ratings": [
+                    {
+                        "5": "189",
+                        "4": "27",
+                        "3": "9",
+                        "2": "5",
+                        "1": "17"
+                    }
+                ]
+            }
+        ],
+        "laptops": [
+            {
+                "name": "ROG Strix Scar 15",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1999
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 2199
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/71RK6+rx-xL._AC_SS450_.jpg",
+                "url": "asus_rog_strix_scar_15_2022",
+                "display_size": 15.6,
+                "processor": {
+                    "name": "Intel Core i9 12th Gen",
+                    "rank": 2
+                },
+                "battery": "90 Wh",
+                "storage": "1024 GB",
+                "memory": "16 GB",
+                "brand": "Asus",
+                "colors": [
+                    "grey",
+                    "black"
+                ],
+                "ratings": [
+                    {
+                        "5": "142",
+                        "4": "97",
+                        "3": "51",
+                        "2": "23",
+                        "1": "66"
+                    }
+                ]
+            },
+            {
+                "name": "Asus ROG Zephyrus G15",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1599
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 1479.99
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/710aRd1RMKL._AC_SL1056_.jpg",
+                "url": "asus_rog_zephyrus_15_2022",
+                "display_size": 15.6,
+                "processor": {
+                    "name": "AMD Ryzen 9",
+                    "rank": 1
+                },
+                "battery": "90 Wh",
+                "storage": "2048 GB",
+                "memory": "16 GB",
+                "brand": "Asus",
+                "colors": [
+                    "grey",
+                    "black"
+                ],
+                "ratings": [
+                    {
+                        "5": "863",
+                        "4": "261",
+                        "3": "104",
+                        "2": "66",
+                        "1": "119"
+                    }
+                ]
+            },
+            {
+                "name": "Razer Blade 17",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 4299
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 4299
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/81okmDUzD6L._AC_SL1500_.jpg",
+                "url": "razer_blade_17_2022",
+                "display_size": 17.3,
+                "processor": {
+                    "name": "Intel Core i9 12th Gen",
+                    "rank": 2
+                },
+                "battery": "90 Wh",
+                "storage": "2048 GB",
+                "memory": "32 GB",
+                "brand": "Razer",
+                "colors": [
+                    "black",
+                    "red"
+                ],
+                "ratings": [
+                    {
+                        "5": "27",
+                        "4": "4",
+                        "3": "3",
+                        "2": "1",
+                        "1": "9"
+                    }
+                ]
+            },
+            {
+                "name": "Lenovo Legion 5 Pro",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1249
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 1399
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/71EaeXTmA5L._AC_SL1500_.jpg",
+                "url": "Lenovo-Legion-7-5800H-GeForce-Backlit",
+                "display_size": 15.6,
+                "processor": {
+                    "name": "Ryzen R7-5800H",
+                    "rank": 3
+                },
+                "battery": "60 Wh",
+                "storage": "1024 GB",
+                "memory": "32 GB",
+                "brand": "Lenovo",
+                "colors": [
+                    "black",
+                    "red"
+                ],
+                "ratings": [
+                    {
+                        "5": "15",
+                        "4": "6",
+                        "3": "2",
+                        "2": "1",
+                        "1": "1"
+                    }
+                ]
+            },
+            {
+                "name": "MSI GE76 Raider",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1649
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 2999
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/71sWgakNl1L._AC_SL1500_.jpg",
+                "url": "MSI-GE76-Raider-i7-12700H-Thunderbolt",
+                "display_size": 17.3,
+                "processor": {
+                    "name": "Intel Core i7 12th Gen",
+                    "rank": 4
+                },
+                "battery": "99.9 Wh",
+                "storage": "1024 GB",
+                "memory": "32 GB",
+                "brand": "MSI",
+                "colors": [
+                    "black",
+                    "dark grey"
+                ],
+                "ratings": [
+                    {
+                        "5": "4",
+                        "4": "2",
+                        "3": "0",
+                        "2": "0",
+                        "1": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Razer Blade 14",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 2540
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 2599
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/71wk6LgSmoL._AC_SL1500_.jpg",
+                "url": "Razer-Blade-Gaming-Laptop-Ultra-Thin",
+                "display_size": 14,
+                "processor": {
+                    "name": "Ryzen 9",
+                    "rank": 5
+                },
+                "battery": "60 Wh",
+                "storage": "1024 GB",
+                "memory": "16 GB",
+                "brand": "Razer",
+                "colors": [
+                    "black"
+                ],
+                "ratings": [
+                    {
+                        "5": "17",
+                        "4": "3",
+                        "3": "0",
+                        "2": "3",
+                        "1": "0"
+                    }
+                ]
+            },
+            {
+                "name": "MSI Stealth GS77",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 3599
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 3905
+                    }
+                ],
+                "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501187cv4d.jpg",
+                "url": "MSI-Stealth-i7-12700H-14-Core-4800MHz",
+                "display_size": 17.3,
+                "processor": {
+                    "name": "Intel Core i9 12th Gen",
+                    "rank": 2
+                },
+                "battery": "90 Wh",
+                "storage": "1024 GB",
+                "memory": "32 GB",
+                "brand": "MSI",
+                "colors": [
+                    "black",
+                    "dark grey"
+                ],
+                "ratings": [
+                    {
+                        "5": "5",
+                        "4": "2",
+                        "3": "0",
+                        "2": "0",
+                        "1": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Acer Predator Helios 300",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1226
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 1499
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_SL1500_.jpg",
+                "url": "Acer-Predator-PH315-54-760S-i7-11800H-Keyboard",
+                "display_size": 15.6,
+                "processor": {
+                    "name": "Intel Core i7 12th Gen",
+                    "rank": 4
+                },
+                "battery": "60 Wh",
+                "storage": "512 GB",
+                "memory": "16 GB",
+                "brand": "Acer",
+                "colors": [
+                    "black"
+                ],
+                "ratings": [
+                    {
+                        "5": "2794",
+                        "4": "358",
+                        "3": "91",
+                        "2": "58",
+                        "1": "153"
+                    }
+                ]
+            }
+        ]
+    }
+}

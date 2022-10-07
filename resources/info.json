@@ -1,0 +1,1390 @@
+{
+    "data": [
+        {
+            "name": "iPhone 14 Pro Max",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+            "url": "apple_iphone_14_pro_max-11773",
+            "display": " 6.7″",
+            "processor": "Apple A16 Bionic",
+            "battery": "4323 mAh",
+            "storage": "1024 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 14 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg",
+            "url": "apple_iphone_14_pro-11860",
+            "display": " 6.1″",
+            "processor": "Apple A16 Bionic",
+            "battery": "3200 mAh",
+            "storage": "1024 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 14 Plus",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-plus.jpg",
+            "url": "apple_iphone_14_plus-11862",
+            "display": " 6.7″",
+            "processor": "Apple A15 Bionic",
+            "battery": "4323 mAh",
+            "storage": "512 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 14",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg",
+            "url": "apple_iphone_14-11861",
+            "display": " 6.1″",
+            "processor": "Apple A15 Bionic",
+            "battery": "3279 mAh",
+            "storage": "512 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone SE (2022)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2022.jpg",
+            "url": "apple_iphone_se_(2022)-11410",
+            "display": " 4.7″",
+            "processor": "Apple A15 Bionic",
+            "battery": "2018 mAh",
+            "storage": "256 GB",
+            "memory": "4 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 13 Pro Max",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+            "url": "apple_iphone_13_pro_max-11089",
+            "display": " 6.7″",
+            "processor": "Apple A15 Bionic",
+            "battery": "4352 mAh",
+            "storage": "1024 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 13 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg",
+            "url": "apple_iphone_13_pro-11102",
+            "display": " 6.1″",
+            "processor": "Apple A15 Bionic",
+            "battery": "3095 mAh",
+            "storage": "1024 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 13",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg",
+            "url": "apple_iphone_13-11103",
+            "display": " 6.1″",
+            "processor": "Apple A15 Bionic",
+            "battery": "3240 mAh",
+            "storage": "512 GB",
+            "memory": "4 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 13 mini",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+            "url": "apple_iphone_13_mini-11104",
+            "display": " 5.4″",
+            "processor": "Apple A15 Bionic",
+            "battery": "2438 mAh",
+            "storage": "512 GB",
+            "memory": "4 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 12 Pro Max",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg",
+            "url": "apple_iphone_12_pro_max-10237",
+            "display": " 6.7″",
+            "processor": "Apple A14 Bionic",
+            "battery": "3687 mAh",
+            "storage": "512 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 12 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg",
+            "url": "apple_iphone_12_pro-10508",
+            "display": " 6.1″",
+            "processor": "Apple A14 Bionic",
+            "battery": "2815 mAh",
+            "storage": "512 GB",
+            "memory": "6 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 12",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg",
+            "url": "apple_iphone_12-10509",
+            "display": " 6.1″",
+            "processor": "Apple A14 Bionic",
+            "battery": "2815 mAh",
+            "storage": "256 GB",
+            "memory": "4 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 12 mini",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg",
+            "url": "apple_iphone_12_mini-10510",
+            "display": " 5.4″",
+            "processor": "Apple A14 Bionic",
+            "battery": "2227 mAh",
+            "storage": "256 GB",
+            "memory": "4 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone SE (2020)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg",
+            "url": "apple_iphone_se_(2020)-10170",
+            "display": " 4.7″",
+            "processor": "Apple A13 Bionic",
+            "battery": "1821 mAh",
+            "storage": "256 GB",
+            "memory": "3 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 11 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg",
+            "url": "apple_iphone_11_pro-9847",
+            "display": " 5.8″",
+            "processor": "Apple A13 Bionic",
+            "battery": "3046 mAh",
+            "storage": "512 GB",
+            "memory": "4 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "iPhone 11",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg",
+            "url": "apple_iphone_11-9848",
+            "display": " 6.1″",
+            "processor": "Apple A13 Bionic",
+            "battery": "3110 mAh",
+            "storage": "256 GB",
+            "memory": "4 GB RAM",
+            "brand": "Apple",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 6a",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6a.jpg",
+            "url": "google_pixel_6a-11229",
+            "display": "6.1″",
+            "processor": "Google Tensor",
+            "battery": "4410 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 6 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+            "url": "google_pixel_6_pro-10918",
+            "display": "6.71″",
+            "processor": "Google Tensor",
+            "battery": "5003 mAh",
+            "storage": "512 GB",
+            "memory": "12 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 6",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6.jpg",
+            "url": "google_pixel_6-11037",
+            "display": "6.4″",
+            "processor": "Google Tensor",
+            "battery": "4614 mAh",
+            "storage": "256 GB",
+            "memory": "8 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 5a 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5a-5g.jpg",
+            "url": "google_pixel_5a_5g-11059",
+            "display": "6.34″",
+            "processor": "Snapdragon 765G 5G",
+            "battery": "4680 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 5",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5-5g.jpg",
+            "url": "google_pixel_5-10386",
+            "display": "6.0″",
+            "processor": "Snapdragon 765G 5G",
+            "battery": "4080 mAh",
+            "storage": "128 GB",
+            "memory": "8 GB",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 4a 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4a-5g.jpg",
+            "url": "google_pixel_4a_5g-10385",
+            "display": "6.2″",
+            "processor": "Snapdragon 765G 5G",
+            "battery": "3885 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 4a",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4a.jpg",
+            "url": "google_pixel_4a-10123",
+            "display": "5.81″",
+            "processor": "Snapdragon 730G",
+            "battery": "3140 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 4 XL",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4-r1.jpg",
+            "url": "google_pixel_4_xl-9895",
+            "display": "6.3″",
+            "processor": "Snapdragon 855",
+            "battery": "3700 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 4",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4-r1.jpg",
+            "url": "google_pixel_4-9896",
+            "display": "5.7″",
+            "processor": "Snapdragon 855",
+            "battery": "2800 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 3a XL",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3a-xl-.jpg",
+            "url": "google_pixel_3a_xl-9690",
+            "display": "6.0″",
+            "processor": "Snapdragon 670",
+            "battery": "3700 mAh",
+            "storage": "64 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 3a",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3a.jpg",
+            "url": "google_pixel_3a-9408",
+            "display": "5.6″",
+            "processor": "Snapdragon 670",
+            "battery": "3000 mAh",
+            "storage": "64 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 3 XL",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3xl-.jpg",
+            "url": "google_pixel_3_xl-9257",
+            "display": "6.3″",
+            "processor": "Snapdragon 845",
+            "battery": "3430 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 3",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3-.jpg",
+            "url": "google_pixel_3-9256",
+            "display": "5.5″",
+            "processor": "Snapdragon 845",
+            "battery": "2915 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 2",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-2.jpg",
+            "url": "google_pixel_2-8733",
+            "display": "5.0″",
+            "processor": "Snapdragon 835",
+            "battery": "2700 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel 2 XL",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-xl2-.jpg",
+            "url": "google_pixel_2_xl-8720",
+            "display": "6.0″",
+            "processor": "Snapdragon 835",
+            "battery": "3520 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel XL",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-xl.jpg",
+            "url": "google_pixel_xl-8345",
+            "display": "5.5″",
+            "processor": "Snapdragon 821",
+            "battery": "3450 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Pixel",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel.jpg",
+            "url": "google_pixel-8346",
+            "display": "5.0″",
+            "processor": "Snapdragon 821",
+            "battery": "2770 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Google",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Ace Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg",
+            "url": "oneplus_ace_pro-11745",
+            "display": "6.7″",
+            "processor": "Snapdragon 8+ Gen 1",
+            "battery": "4800 mAh",
+            "storage": "512 GB",
+            "memory": "16 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord N20 SE",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n20-se.jpg",
+            "url": "oneplus_nord_n20_se-11738",
+            "display": "6.56″",
+            "processor": "MediaTek MT6765G Helio G35",
+            "battery": "5000 mAh",
+            "storage": "64 GB",
+            "memory": "4 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "10T",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg",
+            "url": "oneplus_10t-11622",
+            "display": "6.7″",
+            "processor": "Snapdragon 8+ Gen 1",
+            "battery": "4800 mAh",
+            "storage": "256 GB",
+            "memory": "16 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord 2T",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-2t.jpg",
+            "url": "oneplus_nord_2t-11517",
+            "display": "6.43″",
+            "processor": "MediaTek Dimensity 1300",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Ace Racing",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-race.jpg",
+            "url": "oneplus_ace_racing-11529",
+            "display": "6.59″",
+            "processor": "MediaTek Dimensity 8100-Max",
+            "battery": "5000 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord N20 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n20-5g-.jpg",
+            "url": "oneplus_nord_n20_5g-11218",
+            "display": "6.43″",
+            "processor": "Snapdragon 695 5G",
+            "battery": "4500 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "10R 150W",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10r.jpg",
+            "url": "oneplus_10r_150w-11598",
+            "display": "6.7″",
+            "processor": "MediaTek Dimensity 8100-Max",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "10R",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10r.jpg",
+            "url": "oneplus_10r-11445",
+            "display": "6.7″",
+            "processor": "MediaTek Dimensity 8100-Max",
+            "battery": "5000 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord CE 2 Lite 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-2-lite-5g-0.jpg",
+            "url": "oneplus_nord_ce_2_lite_5g-11344",
+            "display": "6.59″",
+            "processor": "Snapdragon 695 5G",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Ace",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace.jpg",
+            "url": "oneplus_ace-11488",
+            "display": "6.7″",
+            "processor": "MediaTek Dimensity 8100-Max",
+            "battery": "4500 mAh",
+            "storage": "512 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "10 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg",
+            "url": "oneplus_10_pro-11234",
+            "display": "6.7″",
+            "processor": "Snapdragon 8 Gen 1",
+            "battery": "5000 mAh",
+            "storage": "512 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord CE 2 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-2-5g.jpg",
+            "url": "oneplus_nord_ce_2_5g-11269",
+            "display": "6.43″",
+            "processor": "MediaTek MT6877 Dimensity 900",
+            "battery": "4500 mAh",
+            "storage": "128 GB",
+            "memory": "8 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "9RT 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-rt-r.jpg",
+            "url": "oneplus_9rt_5g-11148",
+            "display": "6.62″",
+            "processor": "Snapdragon 888 5G",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord 2 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-2-5g-new.jpg",
+            "url": "oneplus_nord_2_5g-10960",
+            "display": "6.43″",
+            "processor": "MediaTek MT6893 Dimensity 1200",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord N200 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n200-5g.jpg",
+            "url": "oneplus_nord_n200_5g-10961",
+            "display": "6.49″",
+            "processor": "Snapdragon 480 5G",
+            "battery": "5000 mAh",
+            "storage": "64 GB",
+            "memory": "4 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord CE 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce-5g.jpg",
+            "url": "oneplus_nord_ce_5g-10944",
+            "display": "6.43″",
+            "processor": "Snapdragon 750G 5G",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "9 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-pro-.jpg",
+            "url": "oneplus_9_pro-10806",
+            "display": "6.7″",
+            "processor": "Snapdragon 888 5G",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "9",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-.jpg",
+            "url": "oneplus_9-10747",
+            "display": "6.55″",
+            "processor": "Snapdragon 888 5G",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "9R",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9r.jpg",
+            "url": "oneplus_9r-10807",
+            "display": "6.55″",
+            "processor": "Snapdragon 870 5G",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord N10 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n10-5g-.jpg",
+            "url": "oneplus_nord_n10_5g-10556",
+            "display": "6.49″",
+            "processor": "Snapdragon 690 5G",
+            "battery": "4300 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord N100",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n100-.jpg",
+            "url": "oneplus_nord_n100-10557",
+            "display": "6.52″",
+            "processor": "Snapdragon 460",
+            "battery": "5000 mAh",
+            "storage": "64 GB",
+            "memory": "4 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "8T",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8t.jpg",
+            "url": "oneplus_8t-10420",
+            "display": "6.55″",
+            "processor": "Snapdragon 865",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "8T+ 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8t.jpg",
+            "url": "oneplus_8t+_5g-10512",
+            "display": "6.55″",
+            "processor": "Snapdragon 865 5G",
+            "battery": "4500 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Nord",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord.jpg",
+            "url": "oneplus_nord-10289",
+            "display": "6.44″",
+            "processor": "Snapdragon 765G 5G",
+            "battery": "4115 mAh",
+            "storage": "256 GB",
+            "memory": "12 GB RAM",
+            "brand": "OnePlus",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A04s",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg",
+            "url": "samsung_galaxy_a04s-11803",
+            "display": "6.5″",
+            "processor": "Exynos 850",
+            "battery": "5000 mAh battery",
+            "storage": "128 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A04",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04.jpg",
+            "url": "samsung_galaxy_a04-11817",
+            "display": "6.5″",
+            "processor": "Unisoc SC9863A",
+            "battery": "5000 mAh battery",
+            "storage": "128 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy Z Fold4",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold4-5g.jpg",
+            "url": "samsung_galaxy_z_fold4-11737",
+            "display": "7.6″",
+            "processor": "Snapdragon 8+ Gen 1",
+            "battery": "4400 mAh battery",
+            "storage": "1024 GB",
+            "memory": "12 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy Z Flip4",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip4-5g.jpg",
+            "url": "samsung_galaxy_z_flip4-11538",
+            "display": "6.7″",
+            "processor": "Snapdragon 8+ Gen 1",
+            "battery": "3700 mAh",
+            "storage": "512 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A23 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a23-5g.jpg",
+            "url": "samsung_galaxy_a23_5g-11736",
+            "display": "6.6″",
+            "processor": "Snapdragon 695 5G",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy M13 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m13-5g.jpg",
+            "url": "samsung_galaxy_m13_5g-11633",
+            "display": "6.5″",
+            "processor": "MediaTek MT6833 Dimensity 700",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy M13 (India)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m13-4g-india.jpg",
+            "url": "samsung_galaxy_m13_(india)-11654",
+            "display": "6.6″",
+            "processor": "Exynos 850",
+            "battery": "6000 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A13 (SM-A137)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13-a137.jpg",
+            "url": "samsung_galaxy_a13_(sm_a137)-11665",
+            "display": "6.6″",
+            "processor": "MT6769V",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy Xcover6 Pro",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover6-pro-r.jpg",
+            "url": "samsung_galaxy_xcover6_pro-11600",
+            "display": "6.6″",
+            "processor": "Snapdragon 778G 5G",
+            "battery": "4050 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy F13",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f13.jpg",
+            "url": "samsung_galaxy_f13-11624",
+            "display": "6.6″",
+            "processor": "Exynos 850",
+            "battery": "6000 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy M13",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m13.jpg",
+            "url": "samsung_galaxy_m13-11564",
+            "display": "6.6″",
+            "processor": "Exynos 850",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "4 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy M53",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m53-5g.jpg",
+            "url": "samsung_galaxy_m53-11439",
+            "display": "6.7″",
+            "processor": "MediaTek MT6877 Dimensity 900",
+            "battery": "5000 mAh",
+            "storage": "256 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy S20 FE 2022",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-fe-5g.jpg",
+            "url": "samsung_galaxy_s20_fe_2022-11459",
+            "display": "6.5″",
+            "processor": "Snapdragon 865 5G",
+            "battery": "4500 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A73 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a73-5g.jpg",
+            "url": "samsung_galaxy_a73_5g-11257",
+            "display": "6.7″",
+            "processor": "Snapdragon 778G 5G",
+            "battery": "5000 mAh",
+            "storage": "256 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A53 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a53-5g-.jpg",
+            "url": "samsung_galaxy_a53_5g-11268",
+            "display": "6.5″",
+            "processor": "Exynos 1280",
+            "battery": "5000 mAh",
+            "storage": "256 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A33 5G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a33-5g.jpg",
+            "url": "samsung_galaxy_a33_5g-11429",
+            "display": "6.4″",
+            "processor": "Exynos 1280",
+            "battery": "5000 mAh",
+            "storage": "256 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy F23",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m23.jpg",
+            "url": "samsung_galaxy_f23-11406",
+            "display": "6.6″",
+            "processor": "Snapdragon 750G 5G",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy M33",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m33.jpg",
+            "url": "samsung_galaxy_m33-11404",
+            "display": "6.6″",
+            "processor": "Exynos 1280",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy M23",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m23.jpg",
+            "url": "samsung_galaxy_m23-11403",
+            "display": "6.6″",
+            "processor": "Snapdragon 750G 5G",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "6 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        },
+        {
+            "name": "Galaxy A23",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a23.jpg",
+            "url": "samsung_galaxy_a23-11373",
+            "display": "6.6″",
+            "processor": "Snapdragon 680 4G",
+            "battery": "5000 mAh",
+            "storage": "128 GB",
+            "memory": "8 GB RAM",
+            "brand": "Samsung",
+            "color": [
+                "blue",
+                "red",
+                "black",
+                "grey",
+                "gold"
+            ]
+        }
+    ]
+}

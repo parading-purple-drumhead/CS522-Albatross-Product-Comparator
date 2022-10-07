@@ -1,0 +1,86 @@
+{
+    "data": {
+        "phones": [
+            {
+                "name": "iPhone 14 Pro Max",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 2149
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 2099
+                    }
+                ],
+                "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+                "url": "apple_iphone_14_pro_max-11773",
+                "display_size": 6.7,
+                "processor": {
+                    "name": "Apple A16 Bionic",
+                    "rank": 1
+                },
+                "battery": "4323 mAh",
+                "storage": "1024 GB",
+                "memory": "6 GB",
+                "brand": "Apple",
+                "colors": [
+                    "blue",
+                    "red",
+                    "black",
+                    "grey",
+                    "gold",
+                    "purple"
+                ],
+                "ratings": [
+                    {
+                        "5": "78",
+                        "4": "63",
+                        "3": "18",
+                        "2": "10",
+                        "1": "35"
+                    }
+                ]
+            }
+        ],
+        "laptops": [
+            {
+                "name": "ROG Strix Scar 15",
+                "price": [
+                    {
+                        "website": "Amazon",
+                        "price": 1999
+                    },
+                    {
+                        "website": "BestBuy",
+                        "price": 2199
+                    }
+                ],
+                "img": "https://m.media-amazon.com/images/I/71RK6+rx-xL._AC_SS450_.jpg",
+                "url": "asus_rog_strix_scar_15_2022",
+                "display_size": 15.6,
+                "processor": {
+                    "name": "Intel Core i9 12th Gen",
+                    "rank": 1
+                },
+                "battery": "90 Wh",
+                "storage": "1024 GB",
+                "memory": "16 GB",
+                "brand": "Asus",
+                "colors": [
+                    "grey",
+                    "black"
+                ],
+                "ratings": [
+                    {
+                        "5": "142",
+                        "4": "97",
+                        "3": "51",
+                        "2": "23",
+                        "1": "66"
+                    }
+                ]
+            }
+        ]
+    }
+}
