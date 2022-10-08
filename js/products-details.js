@@ -82,9 +82,7 @@ function getData() {
                 alt=""
                 class="logo"
               />
-              <h1 class="value ms-3" style="color: #41b02c">$${
-                product_details['price'][0]['price']
-              }</h1>
+              <h1 class="value text-success" style="padding-left:0.5em">$${product_details['price'][0]['price']}</h1>
             </li>
             <li id="logo" class="devices"  style="padding-top:1em">
               <img
