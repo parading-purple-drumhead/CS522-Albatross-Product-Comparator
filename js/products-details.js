@@ -84,9 +84,7 @@ function getData() {
                 alt=""
                 class="logo"
               />
-              <h1 class="value ms-3" style="color: #41b02c">$${
-                product_details['price'][0]['price']
-              }</h1>
+              <h1 class="value text-success" style="padding-left:0.5em">$${product_details['price'][0]['price']}</h1>
             </li>
             <li id="logo" class="devices"  style="padding-top:1em">
               <img
@@ -146,7 +144,7 @@ function getData() {
           <a href="./product-compare.html?product_type=${product_type}&product=${
         product_details['url']
       }&compare=compapre" 
-          class="btn btn-warning" style="font-size: 1.25rem;">
+          class="btn btn-primary" style="font-size: 1.25rem;">
             <i class="bi bi-search me-2"></i>
             Compare with other products
           </a>
