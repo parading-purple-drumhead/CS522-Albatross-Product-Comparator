@@ -1,5 +1,3 @@
-// Add price, year, ratings to info.json```
-
 const [[query1, product_type],[query2, product]] = new URLSearchParams(window.location.search)
 
 console.log(product)
@@ -77,8 +75,8 @@ function getData() {
             <li id="name">
               Model: ${product_details['name']}
             </li>
-            <li id="storage">Storage: ${product_details['storage']}</li>
-            <li id="memory">Memory: ${product_details['memory']}</li>
+            <li id="storage">Storage: ${product_details['storage']} GB</li>
+            <li id="memory">Memory: ${product_details['memory']} GB</li>
           </ul>
           <div class="row my-3 color-picker px-2" style="font-size: 1rem;">
             <h5 class="mb-3">Color</h5> 
@@ -113,7 +111,8 @@ function getData() {
       </div>
       <div class="row mb-5">
         <div class="col-lg-6 offset-lg-3 text-center">
-          <a href="#" class="btn btn-warning" style="font-size: 1.25rem;">
+          <a href="./product-details.html?product_type=${product_type}&product=${product_details['url']}&compare=compapre" 
+          class="btn btn-warning" style="font-size: 1.25rem;">
             <i class="bi bi-search me-2"></i>
             Compare with other products
           </a>
@@ -138,8 +137,8 @@ function getData() {
               <p>${product_details['brand']}</p>
               <p>${product_details['name']}</p>
               <p>Blue</p>
-              <p>${product_details['storage']}</p>
-              <p>${product_details['memory']}</p>
+              <p>${product_details['storage']} GB</p>
+              <p>${product_details['memory']} GB</p>
               <p>${product_details['processor']['name']}</p>
             </div>
           </div>
