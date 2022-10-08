@@ -23,7 +23,7 @@ function getData() {
 
       let products = data.data[product_type]
 
-      console.log(products)
+      console.log(products);
 
       brands = [...new Set(products.map((product) => product['brand']))]
       storages = [
