@@ -134,8 +134,8 @@ function getData() {
             ${full_stars + half_stars + empty_stars}            
           </span>
           <span>${avg_rating.toFixed(1)}/5 (${num_of_ratings})</span>
-          <p>
-          <input class="form-check-input me-2" type="checkbox" />
+          <p class="mt-2">
+            <input class="form-check-input me-2" type="checkbox" />
                 Add to compare
           </p>
         </div>
