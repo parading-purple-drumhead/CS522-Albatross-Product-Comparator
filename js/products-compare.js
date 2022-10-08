@@ -1,16 +1,21 @@
-const [[query3, product_type],[query4, product],[query5, compare]] = new URLSearchParams(window.location.search)
+const [
+  [query3, product_type],
+  [query4, product],
+  [query5, compare],
+] = new URLSearchParams(window.location.search)
 
 console.log(product)
 console.log(product_type)
 
 function getData() {
-    fetch('../resources/information.json')
+  fetch('../resources/information.json')
     .then((response) => response.json())
     .then((data) => {
       var products = data.data
 
-    
-      var device = products[product_type].filter((phone) => phone['url'] == product)
+      var device = products[product_type].filter(
+        (phone) => phone['url'] == product,
+      )
 
       console.log(device)
 
@@ -18,9 +23,7 @@ function getData() {
 
       console.log(product_details)
 
-      document.querySelector(
-        '#comparator',
-      ).innerHTML = `<div class="container">
+      document.querySelector('#comparator').innerHTML = `<div class="container">
       <div class="row my-5">
         <center><h1>Comparison</h1></center>
         <div class="row">
@@ -36,7 +39,9 @@ function getData() {
                       style="height: 10rem;"
                       alt=""
                     />
-                    <h5 class="mt-2">${product_details['brand'] + ' ' + product_details['name']}</h5>
+                    <h5 class="mt-2">${
+                      product_details['brand'] + ' ' + product_details['name']
+                    }</h5>
                   </th>
                   <th class="text-center" scope="col">
                     <img
@@ -65,13 +70,17 @@ function getData() {
                 </tr>
                 <tr>
                   <td>Price</td>
-                  <td class="text-center table-success">${product_details['price'][0]['price']}</td>
+                  <td class="text-center table-success">${
+                    product_details['price'][0]['price']
+                  }</td>
                   <td class="text-center">$999</td>
                   <td class="text-center">N/A</td>
                 </tr>
                 <tr>
                   <td>Processor</td>
-                  <td class="text-center">${product_details['processor']['name']}</td>
+                  <td class="text-center">${
+                    product_details['processor']['name']
+                  }</td>
                   <td class="text-center table-success">Google Tensor</td>
                   <td class="text-center">N/A</td>
                 </tr>
@@ -93,7 +102,6 @@ function getData() {
         </div>
       </div>
       </div>`
-
     })
 }
 
