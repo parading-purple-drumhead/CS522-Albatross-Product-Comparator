@@ -32,7 +32,7 @@
                     "gold",
                     "purple"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 78,
                         "4": 63,
@@ -40,7 +40,6 @@
                         "2": 10,
                         "1": 35
                     }
-                ]
             },
             {
                 "name": "iPhone 13 Pro Max",
@@ -72,7 +71,7 @@
                     "blue",
                     "silver"
                 ],
-                "ratings": [
+                "ratings":
                     {
                         "5": 1008,
                         "4": 586,
@@ -80,7 +79,6 @@
                         "2": 55,
                         "1": 12
                     }
-                ]
             },
             {
                 "name": "Pixel 6 Pro",
@@ -113,7 +111,7 @@
                     "gold",
                     "blue"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 181,
                         "4": 38,
@@ -121,7 +119,6 @@
                         "2": 13,
                         "1": 35
                     }
-                ]
             },
             {
                 "name": "Pixel 5a 5G",
@@ -152,7 +149,7 @@
                     "black",
                     "white"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 297,
                         "4": 92,
@@ -160,7 +157,6 @@
                         "2": 23,
                         "1": 30
                     }
-                ]
             },
             {
                 "name": "OnePlus 10T",
@@ -189,7 +185,7 @@
                     "green",
                     "black"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 9,
                         "4": 0,
@@ -197,7 +193,6 @@
                         "2": 0,
                         "1": 1
                     }
-                ]
             },
             {
                 "name": "OnePlus 10 Pro",
@@ -226,7 +221,7 @@
                     "green",
                     "black"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 176,
                         "4": 36,
@@ -234,7 +229,6 @@
                         "2": 9,
                         "1": 22
                     }
-                ]
             },
             {
                 "name": "Samsung Galaxy S22 Ultra 5G",
@@ -267,7 +261,7 @@
                     "gold",
                     "purple"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 322,
                         "4": 45,
@@ -275,7 +269,6 @@
                         "2": 6,
                         "1": 23
                     }
-                ]
             },
             {
                 "name": "Samsung Galaxy S22+ 5G",
@@ -308,7 +301,7 @@
                     "gold",
                     "burgandy"
                 ],
-                "ratings": [
+                "ratings":
                     {
                         "5": 189,
                         "4": 27,
@@ -316,7 +309,6 @@
                         "2": 5,
                         "1": 17
                     }
-                ]
             }
         ],
         "laptops": [
@@ -347,7 +339,7 @@
                     "grey",
                     "black"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 142,
                         "4": 97,
@@ -355,7 +347,6 @@
                         "2": 23,
                         "1": 66
                     }
-                ]
             },
             {
                 "name": "Asus ROG Zephyrus G15",
@@ -384,7 +375,7 @@
                     "grey",
                     "black"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 863,
                         "4": 261,
@@ -392,7 +383,6 @@
                         "2": 66,
                         "1": 119
                     }
-                ]
             },
             {
                 "name": "Razer Blade 17",
@@ -421,7 +411,7 @@
                     "black",
                     "red"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 27,
                         "4": 4,
@@ -429,7 +419,6 @@
                         "2": 1,
                         "1": 9
                     }
-                ]
             },
             {
                 "name": "Lenovo Legion 5 Pro",
@@ -458,7 +447,7 @@
                     "black",
                     "red"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 15,
                         "4": 6,
@@ -466,7 +455,6 @@
                         "2": 1,
                         "1": 1
                     }
-                ]
             },
             {
                 "name": "MSI GE76 Raider",
@@ -495,7 +483,7 @@
                     "black",
                     "dark grey"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 4,
                         "4": 2,
@@ -503,7 +491,6 @@
                         "2": 0,
                         "1": 0
                     }
-                ]
             },
             {
                 "name": "Razer Blade 14",
@@ -531,7 +518,7 @@
                 "colors": [
                     "black"
                 ],
-                "ratings": [
+                "ratings":
                     {
                         "5": 17,
                         "4": 3,
@@ -539,7 +526,6 @@
                         "2": 3,
                         "1": 0
                     }
-                ]
             },
             {
                 "name": "MSI Stealth GS77",
@@ -568,7 +554,7 @@
                     "black",
                     "dark grey"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 5,
                         "4": 2,
@@ -576,7 +562,6 @@
                         "2": 0,
                         "1": 0
                     }
-                ]
             },
             {
                 "name": "Acer Predator Helios 300",
@@ -604,7 +589,7 @@
                 "colors": [
                     "black"
                 ],
-                "ratings": [
+                "ratings": 
                     {
                         "5": 2794,
                         "4": 358,
@@ -612,7 +597,6 @@
                         "2": 58,
                         "1": 153
                     }
-                ]
             }
         ]
     }
