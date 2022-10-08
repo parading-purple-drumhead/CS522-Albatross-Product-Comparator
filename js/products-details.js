@@ -142,7 +142,7 @@ function getData() {
           <a href="./product-compare.html?product_type=${product_type}&product=${
         product_details['url']
       }&compare=compapre" 
-          class="btn btn-warning" style="font-size: 1.25rem;">
+          class="btn btn-primary" style="font-size: 1.25rem;">
             <i class="bi bi-search me-2"></i>
             Compare with other products
           </a>
