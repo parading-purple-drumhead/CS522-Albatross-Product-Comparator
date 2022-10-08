@@ -99,13 +99,13 @@ function getData() {
                     </tr>
                     <tr>
                       <td>Memory</td>
-                      <td class="text-center">${product_details['memory']}</td>
+                      <td class="text-center">${product_details['memory']} GB</td>
                       <td class="text-center table-success">12 GB</td>
                       <td class="text-center">N/A</td>
                     </tr>
                     <tr>
                       <td>Storage</td>
-                      <td class="text-center">${product_details['storage']}</td>
+                      <td class="text-center">${product_details['storage']} GB</td>
                       <td class="text-center table-success">256 GB</td>
                       <td class="text-center">N/A</td>
                     </tr>
@@ -160,7 +160,7 @@ function getData() {
                 <tr>
                   <td>Brand</td>
                   <td class="text-center">${product_details['brand']}</td>
-                  <td class="text-center">Google</td>
+                  <td class="text-center">MSI</td>
                   <td class="text-center">N/A</td>
                 </tr>
                 <tr>
@@ -168,7 +168,7 @@ function getData() {
                   <td class="text-center table-success">${
                     product_details['price'][0]['price']
                   }</td>
-                  <td class="text-center">$999</td>
+                  <td class="text-center">3599</td>
                   <td class="text-center">N/A</td>
                 </tr>
                 <tr>
@@ -176,19 +176,19 @@ function getData() {
                   <td class="text-center">${
                     product_details['processor']['name']
                   }</td>
-                  <td class="text-center table-success">Google Tensor</td>
+                  <td class="text-center table-success">Intel Core i9 12th Gen</td>
                   <td class="text-center">N/A</td>
                 </tr>
                 <tr>
                   <td>Memory</td>
-                  <td class="text-center">${product_details['memory']}</td>
-                  <td class="text-center table-success">12 GB</td>
+                  <td class="text-center">${product_details['memory']} GB</td>
+                  <td class="text-center table-success">32 GB</td>
                   <td class="text-center">N/A</td>
                 </tr>
                 <tr>
                   <td>Storage</td>
-                  <td class="text-center">${product_details['storage']}</td>
-                  <td class="text-center table-success">256 GB</td>
+                  <td class="text-center">${product_details['storage']} GB</td>
+                  <td class="text-center table-success">1024 GB</td>
                   <td class="text-center">N/A</td>
                 </tr>
               </tbody>
