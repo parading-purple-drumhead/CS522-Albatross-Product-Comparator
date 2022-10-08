@@ -11,7 +11,8 @@ function getData() {
     .then((data) => {
       var products = data.data
 
-      var device = products.phones.filter((phone) => phone['url'] == product)
+    
+      var device = products[product_type].filter((phone) => phone['url'] == product)
 
       console.log(device)
 
