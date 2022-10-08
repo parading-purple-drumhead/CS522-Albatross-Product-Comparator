@@ -14,6 +14,75 @@ function getData() {
 
       let products = data.data[product_type]
 
+      console.log(products)
+
+      brands = [...new Set(products.map((product) => product['brand']))]
+      storages = [
+        ...new Set(products.map((product) => product['storage'])),
+      ].sort((a, b) => a - b)
+      memories = [
+        ...new Set(products.map((product) => product['memory'])),
+      ].sort((a, b) => a - b)
+
+      brand_filters = ``
+      storage_filters = ``
+      memory_filters = ``
+
+      brands.forEach((brand) => {
+        {
+          brand_filters += `<div class="col-lg-12">
+          <span>
+            <input class="form-check-input me-2" type="checkbox" />
+            ${brand}
+          </span>
+        </div>`
+        }
+      })
+
+      storages.forEach((storage) => {
+        {
+          storage_filters += `<div class="col-lg-12">
+          <span>
+            <input class="form-check-input me-2" type="checkbox" />
+            ${storage} GB
+          </span>
+        </div>`
+        }
+      })
+
+      memories.forEach((memory) => {
+        {
+          memory_filters += `<div class="col-lg-12">
+          <span>
+            <input class="form-check-input me-2" type="checkbox" />
+            ${memory} GB
+          </span>
+        </div>`
+        }
+      })
+
+      document.querySelector('#filter').innerHTML = `
+          <h4>Filter</h4>
+
+          <!-- Brand -->
+          <div class="row my-3">
+            <h5>Brand</h5>
+           ${brand_filters}
+          </div>
+
+          <!-- Internal Storage -->
+          <div class="row my-3">
+            <h5>Internal Storage</h5>
+            ${storage_filters}
+          </div>
+
+          <!-- Memory -->
+          <div class="row my-3">
+            <h5>Memory</h5>
+            ${memory_filters}
+          </div>
+      `
+
       products.forEach((product) => {
         const ratings = product.ratings
         const num_of_ratings =
