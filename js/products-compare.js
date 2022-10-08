@@ -1,0 +1,100 @@
+const [[query3, product_type],[query4, product],[query5, compare]] = new URLSearchParams(window.location.search)
+
+console.log(product)
+console.log(product_type)
+
+function getData() {
+    fetch('../resources/information.json')
+    .then((response) => response.json())
+    .then((data) => {
+      var products = data.data
+
+    
+      var device = products[product_type].filter((phone) => phone['url'] == product)
+
+      console.log(device)
+
+      const product_details = device[0]
+
+      console.log(product_details)
+
+      document.querySelector(
+        '#comparator',
+      ).innerHTML = `<div class="container">
+      <div class="row my-5">
+        <center><h1>Comparison</h1></center>
+        <div class="row">
+          <div class="col-lg-12">
+            <table class="table table-striped table-borderless my-3">
+              <thead>
+                <tr>
+                  <th scope="col">Product</th>
+                  <th class="text-center" scope="col">
+                    <img
+                      src="${product_details['img']}"
+                      class="img-fluid"
+                      style="height: 10rem;"
+                      alt=""
+                    />
+                    <h5 class="mt-2">${product_details['brand'] + ' ' + product_details['name']}</h5>
+                  </th>
+                  <th class="text-center" scope="col">
+                    <img
+                      src="https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg"
+                      class="img-fluid"
+                      style="height: 10rem;"
+                      alt=""
+                    />
+                    <h5 class="mt-2">Google Pixel 6 Pro</h5>
+                  </th>
+                  <th class="text-center" scope="col">
+                    <div class="mb-5">
+                      <i class="bi bi-plus-circle" style="font-size: 3rem;"></i>
+                    </div>
+
+                    <h6>Add Another Product</h6>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Brand</td>
+                  <td class="text-center">${product_details['brand']}</td>
+                  <td class="text-center">Google</td>
+                  <td class="text-center">N/A</td>
+                </tr>
+                <tr>
+                  <td>Price</td>
+                  <td class="text-center table-success">${product_details['price'][0]['price']}</td>
+                  <td class="text-center">$999</td>
+                  <td class="text-center">N/A</td>
+                </tr>
+                <tr>
+                  <td>Processor</td>
+                  <td class="text-center">${product_details['processor']['name']}</td>
+                  <td class="text-center table-success">Google Tensor</td>
+                  <td class="text-center">N/A</td>
+                </tr>
+                <tr>
+                  <td>Memory</td>
+                  <td class="text-center">${product_details['memory']}</td>
+                  <td class="text-center table-success">12 GB</td>
+                  <td class="text-center">N/A</td>
+                </tr>
+                <tr>
+                  <td>Storage</td>
+                  <td class="text-center">${product_details['storage']}</td>
+                  <td class="text-center table-success">256 GB</td>
+                  <td class="text-center">N/A</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      </div>`
+
+    })
+}
+
+getData()
