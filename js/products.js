@@ -12,6 +12,10 @@ function getData() {
         product_type,
       )
 
+      document.querySelector(
+        '#tagline',
+      ).textContent = `Compare and find the latest ${product_type} here on APC at the best prices!`
+
       let products = data.data[product_type]
 
       console.log(products)
