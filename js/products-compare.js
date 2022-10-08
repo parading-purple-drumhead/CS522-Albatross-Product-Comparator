@@ -10,12 +10,20 @@ console.log(product_type)
 function getData() {
   fetch(
     'https://raw.githubusercontent.com/parading-purple-drumhead/CS522-Albatross-Product-Comparator/main/resources/information.json',
+    {
+      method: 'GET',
+      headers: {
+        Accept: 'application/json',
+      },
+    },
   )
     .then((response) => response.json())
     .then((data) => {
       var products = data.data
 
-      var device = products[product_type].filter((phone) => phone['url'] == product)
+      var device = products[product_type].filter(
+        (phone) => phone['url'] == product,
+      )
 
       console.log(device)
 
@@ -23,9 +31,10 @@ function getData() {
 
       console.log(product_details)
 
-      if (product_type=="phones") {
-
-      document.querySelector('#comparator').innerHTML = `<div class="container">
+      if (product_type == 'phones') {
+        document.querySelector(
+          '#comparator',
+        ).innerHTML = `<div class="container">
           <div class="row my-5">
             <center><h1>Comparison</h1></center>
             <div class="row">
@@ -41,7 +50,11 @@ function getData() {
                           style="height: 10rem;"
                           alt=""
                         />
-                        <h5 class="mt-2">${product_details['brand'] + ' ' + product_details['name']}</h5>
+                        <h5 class="mt-2">${
+                          product_details['brand'] +
+                          ' ' +
+                          product_details['name']
+                        }</h5>
                       </th>
                       <th class="text-center" scope="col">
                         <img
@@ -70,13 +83,17 @@ function getData() {
                     </tr>
                     <tr>
                       <td>Price</td>
-                      <td class="text-center table-success">${product_details['price'][0]['price']}</td>
+                      <td class="text-center table-success">${
+                        product_details['price'][0]['price']
+                      }</td>
                       <td class="text-center">$999</td>
                       <td class="text-center">N/A</td>
                     </tr>
                     <tr>
                       <td>Processor</td>
-                      <td class="text-center">${product_details['processor']['name']}</td>
+                      <td class="text-center">${
+                        product_details['processor']['name']
+                      }</td>
                       <td class="text-center table-success">Google Tensor</td>
                       <td class="text-center">N/A</td>
                     </tr>
@@ -99,10 +116,9 @@ function getData() {
           </div>
           </div>`
       } else {
-
-      document.querySelector(
-        '#comparator',
-      ).innerHTML = `<div class="container">
+        document.querySelector(
+          '#comparator',
+        ).innerHTML = `<div class="container">
       <div class="row my-5">
         <center><h1>Comparison</h1></center>
         <div class="row">
@@ -182,7 +198,6 @@ function getData() {
       </div>
       </div>`
       }
-
     })
 }
 

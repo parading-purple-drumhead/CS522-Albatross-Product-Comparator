@@ -8,6 +8,12 @@ console.log(product_type)
 function getData() {
   fetch(
     'https://raw.githubusercontent.com/parading-purple-drumhead/CS522-Albatross-Product-Comparator/main/resources/information.json',
+    {
+      method: 'GET',
+      headers: {
+        Accept: 'application/json',
+      },
+    },
   )
     .then((response) => response.json())
     .then((data) => {
@@ -84,7 +90,9 @@ function getData() {
                 alt=""
                 class="logo"
               />
-              <h1 class="value text-success" style="padding-left:0.5em">$${product_details['price'][0]['price']}</h1>
+              <h1 class="value text-success" style="padding-left:0.5em">$${
+                product_details['price'][0]['price']
+              }</h1>
             </li>
             <li id="logo" class="devices"  style="padding-top:1em">
               <img
