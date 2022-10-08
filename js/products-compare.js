@@ -83,7 +83,7 @@ function getData() {
                     </tr>
                     <tr>
                       <td>Price</td>
-                      <td class="text-center table-success">${
+                      <td class="text-center table-success">$${
                         product_details['price'][0]['price']
                       }</td>
                       <td class="text-center">$999</td>
@@ -169,10 +169,10 @@ function getData() {
                 </tr>
                 <tr>
                   <td>Price</td>
-                  <td class="text-center table-success">${
+                  <td class="text-center table-success">$${
                     product_details['price'][0]['price']
                   }</td>
-                  <td class="text-center">3599</td>
+                  <td class="text-center">$3599</td>
                   <td class="text-center">N/A</td>
                 </tr>
                 <tr>
