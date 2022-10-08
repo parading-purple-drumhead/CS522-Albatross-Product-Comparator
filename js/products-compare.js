@@ -99,13 +99,17 @@ function getData() {
                     </tr>
                     <tr>
                       <td>Memory</td>
-                      <td class="text-center">${product_details['memory']} GB</td>
+                      <td class="text-center">${
+                        product_details['memory']
+                      } GB</td>
                       <td class="text-center table-success">12 GB</td>
                       <td class="text-center">N/A</td>
                     </tr>
                     <tr>
                       <td>Storage</td>
-                      <td class="text-center">${product_details['storage']} GB</td>
+                      <td class="text-center">${
+                        product_details['storage']
+                      } GB</td>
                       <td class="text-center table-success">256 GB</td>
                       <td class="text-center">N/A</td>
                     </tr>
@@ -140,7 +144,7 @@ function getData() {
                   </th>
                   <th class="text-center" scope="col">
                     <img
-                      src="https://m.media-amazon.com/images/I/71sWgakNl1L._AC_SL1500_.jpg"
+                      src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501187cv4d.jpg"
                       class="img-fluid"
                       style="height: 10rem;"
                       alt=""
