@@ -8,7 +8,9 @@ console.log(product)
 console.log(product_type)
 
 function getData() {
-  fetch('../resources/information.json')
+  fetch(
+    'https://raw.githubusercontent.com/parading-purple-drumhead/CS522-Albatross-Product-Comparator/main/resources/information.json',
+  )
     .then((response) => response.json())
     .then((data) => {
       var products = data.data
