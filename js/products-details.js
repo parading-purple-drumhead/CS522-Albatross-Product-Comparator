@@ -10,7 +10,7 @@ function getData() {
       var products = data.data
 
     
-      var device = products[product_type].filter((phone) => phone['url'] == product)
+      var device = products[product_type].filter((tech) => tech['url'] == product)
 
       console.log(device)
 
@@ -67,7 +67,26 @@ function getData() {
             </span>
           </span>
           <span style="font-size: 1.5rem;">${avg_rating.toFixed(1)}/5 (${num_of_ratings})</span>
-          <h1 class="my-2">$${product_details['price'][0]['price']}</h1>
+          <ul>
+            <li id="logo" class="devices" style="padding-top:1em">
+              <img
+                id="image"
+                src="https://asset.brandfetch.io/idmSVs_Vxg/idaPeHty7G.jpeg?updated=1649772671416"
+                alt=""
+                class="logo"
+              />
+              <h1 class="value" style="padding-left:0.5em">$${product_details['price'][0]['price']}</h1>
+            </li>
+            <li id="logo" class="devices"  style="padding-top:1em">
+              <img
+                id="image"
+                src="https://asset.brandfetch.io/idawOgYOsG/idjowGqOcI.svg?updated=1646282452465"
+                alt=""
+                class="logo"
+              />
+              <h1 class="value" style="padding-left:0.5em">$${product_details['price'][1]['price']}</h1>
+            </li>
+          </ul>
           <ul class="text-secondary">
             <li id="brand">
               Brand: ${product_details['brand']}
@@ -111,7 +130,7 @@ function getData() {
       </div>
       <div class="row mb-5">
         <div class="col-lg-6 offset-lg-3 text-center">
-          <a href="./product-details.html?product_type=${product_type}&product=${product_details['url']}&compare=compapre" 
+          <a href="./product-compare.html?product_type=${product_type}&product=${product_details['url']}&compare=compapre" 
           class="btn btn-warning" style="font-size: 1.25rem;">
             <i class="bi bi-search me-2"></i>
             Compare with other products
