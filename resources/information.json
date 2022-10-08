@@ -21,8 +21,8 @@
                     "rank": 1
                 },
                 "battery": "4323 mAh",
-                "storage": "1024 GB",
-                "memory": "6 GB",
+                "storage": 1024,
+                "memory": 6,
                 "brand": "Apple",
                 "colors": [
                     "blue",
@@ -60,8 +60,8 @@
                     "rank": 2
                 },
                 "battery": "4323 mAh",
-                "storage": "1024 GB",
-                "memory": "6 GB",
+                "storage": 1024,
+                "memory": 6,
                 "brand": "Apple",
                 "colors": [
                     "green",
@@ -98,8 +98,8 @@
                     "rank": 4
                 },
                 "battery": "5000 mAh",
-                "storage": "256 GB",
-                "memory": "12 GB",
+                "storage": 256,
+                "memory": 12,
                 "brand": "Google",
                 "colors": [
                     "white",
@@ -137,8 +137,8 @@
                     "rank": 4
                 },
                 "battery": "4400 mAh",
-                "storage": "128 GB",
-                "memory": "6GB",
+                "storage": 128,
+                "memory": 6,
                 "brand": "Google",
                 "colors": [
                     "blue",
@@ -174,8 +174,8 @@
                     "rank": 3
                 },
                 "battery": "4800 mAh",
-                "storage": "256 GB",
-                "memory": "16 GB",
+                "storage": 256,
+                "memory": 16,
                 "brand": "OnePlus",
                 "colors": [
                     "green",
@@ -209,8 +209,8 @@
                     "rank": 3
                 },
                 "battery": "5000 mAh",
-                "storage": "512 GB",
-                "memory": "12 GB",
+                "storage": 512,
+                "memory": 12,
                 "brand": "OnePlus",
                 "colors": [
                     "green",
@@ -244,8 +244,8 @@
                     "rank": 5
                 },
                 "battery": "5000 mAh",
-                "storage": "512 GB",
-                "memory": "12 GB",
+                "storage": 512,
+                "memory": 12,
                 "brand": "Samsung",
                 "colors": [
                     "blue",
@@ -283,8 +283,8 @@
                     "rank": 5
                 },
                 "battery": "4500 mAh",
-                "storage": "128 GB",
-                "memory": "8 GB",
+                "storage": 128,
+                "memory": 8,
                 "brand": "Samsung",
                 "colors": [
                     "blue",
@@ -324,8 +324,8 @@
                     "rank": 2
                 },
                 "battery": "90 Wh",
-                "storage": "1024 GB",
-                "memory": "16 GB",
+                "storage": 1024,
+                "memory": 16,
                 "brand": "Asus",
                 "colors": [
                     "grey",
@@ -359,8 +359,8 @@
                     "rank": 1
                 },
                 "battery": "90 Wh",
-                "storage": "2048 GB",
-                "memory": "16 GB",
+                "storage": 2048,
+                "memory": 16,
                 "brand": "Asus",
                 "colors": [
                     "grey",
@@ -394,8 +394,8 @@
                     "rank": 2
                 },
                 "battery": "90 Wh",
-                "storage": "2048 GB",
-                "memory": "32 GB",
+                "storage": 2048,
+                "memory": 32,
                 "brand": "Razer",
                 "colors": [
                     "black",
@@ -429,8 +429,8 @@
                     "rank": 3
                 },
                 "battery": "60 Wh",
-                "storage": "1024 GB",
-                "memory": "32 GB",
+                "storage": 1024,
+                "memory": 32,
                 "brand": "Lenovo",
                 "colors": [
                     "black",
@@ -464,8 +464,8 @@
                     "rank": 4
                 },
                 "battery": "99.9 Wh",
-                "storage": "1024 GB",
-                "memory": "32 GB",
+                "storage": 1024,
+                "memory": 32,
                 "brand": "MSI",
                 "colors": [
                     "black",
@@ -499,8 +499,8 @@
                     "rank": 5
                 },
                 "battery": "60 Wh",
-                "storage": "1024 GB",
-                "memory": "16 GB",
+                "storage": 1024,
+                "memory": 16,
                 "brand": "Razer",
                 "colors": [
                     "black"
@@ -533,8 +533,8 @@
                     "rank": 2
                 },
                 "battery": "90 Wh",
-                "storage": "1024 GB",
-                "memory": "32 GB",
+                "storage": 1024,
+                "memory": 32,
                 "brand": "MSI",
                 "colors": [
                     "black",
@@ -568,8 +568,8 @@
                     "rank": 4
                 },
                 "battery": "60 Wh",
-                "storage": "512 GB",
-                "memory": "16 GB",
+                "storage": 512,
+                "memory": 16,
                 "brand": "Acer",
                 "colors": [
                     "black"
