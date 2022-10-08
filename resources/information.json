@@ -82,11 +82,11 @@
                 "name": "Pixel 6 Pro",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 895
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 999
                     }
                 ],
@@ -121,11 +121,11 @@
                 "name": "Pixel 5a 5G",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 349
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 349
                     }
                 ],
@@ -158,11 +158,11 @@
                 "name": "10T",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 745
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 749
                     }
                 ],
@@ -308,11 +308,11 @@
                 "name": "ROG Strix Scar 15",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 1999
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 2199
                     }
                 ],
@@ -378,11 +378,11 @@
                 "name": "Razer Blade 17",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 4299
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 4299
                     }
                 ],
@@ -413,11 +413,11 @@
                 "name": "Lenovo Legion 5 Pro",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 1249
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 1399
                     }
                 ],
@@ -448,11 +448,11 @@
                 "name": "MSI GE76 Raider",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 1649
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 2999
                     }
                 ],
@@ -483,11 +483,11 @@
                 "name": "Razer Blade 14",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 2540
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 2599
                     }
                 ],
@@ -517,11 +517,11 @@
                 "name": "MSI Stealth GS77",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 3599
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 3905
                     }
                 ],
@@ -552,11 +552,11 @@
                 "name": "Acer Predator Helios 300",
                 "price": [
                     {
-                        "website": "Amazon",
+                        "website": "BestBuy",
                         "price": 1226
                     },
                     {
-                        "website": "BestBuy",
+                        "website": "Amazon",
                         "price": 1499
                     }
                 ],
