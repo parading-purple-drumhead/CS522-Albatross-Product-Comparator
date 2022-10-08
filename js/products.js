@@ -5,15 +5,12 @@ function capitalize(string) {
 }
 
 function getData() {
-  fetch(
-    'https://raw.githubusercontent.com/parading-purple-drumhead/CS522-Albatross-Product-Comparator/main/resources/information.json',
-    {
-      method: 'GET',
-      headers: {
-        Accept: 'application/json',
-      },
+  fetch('../resources/information.json', {
+    method: 'GET',
+    headers: {
+      Accept: 'application/json',
     },
-  )
+  })
     .then((response) => response.json())
     .then((data) => {
       document.querySelector('#product-type').textContent = capitalize(
