@@ -91,8 +91,8 @@
           <h4>Filter</h4>
 
           <!-- Brand -->
-          <div class="row my-3">
-            <h5>Brand</h5>
+          <h5>Brand</h5>
+          <div class="row my-3" id="brand-filters">
             <div class="col-lg-12">
               <span>
                 <input class="form-check-input me-2" type="checkbox" />
@@ -108,8 +108,21 @@
           </div>
 
           <!-- Internal Storage -->
-          <div class="row my-3">
-            <h5>Internal Storage</h5>
+          <h5>
+            Internal Storage
+            <a
+              tabindex="0"
+              role="button"
+              data-bs-toggle="popover"
+              data-bs-trigger="focus"
+              data-bs-custom-class="custom-popover"
+              data-bs-title="Internal Storage"
+              data-bs-content="This is how much space you have available on your device to store apps, documents, movies, music and games. The higher the storage, the more data you can accomodate on your device"
+            >
+              <i class="bi bi-info-circle"></i>
+            </a>
+          </h5>
+          <div class="row my-3" id="storage-filters">
             <div class="col-lg-12">
               <span>
                 <input class="form-check-input me-2" type="checkbox" />
@@ -131,8 +144,21 @@
           </div>
 
           <!-- Memory -->
-          <div class="row my-3">
-            <h5>Memory</h5>
+          <h5>
+            Memory
+            <a
+              tabindex="0"
+              role="button"
+              data-bs-toggle="popover"
+              data-bs-trigger="focus"
+              data-bs-custom-class="custom-popover"
+              data-bs-title="Memory"
+              data-bs-content="This is the amount of memory your device can simultaneously access. Higher amounts of memory enable more multitasking on your device"
+            >
+              <i class="bi bi-info-circle"></i>
+            </a>
+          </h5>
+          <div class="row my-3" id="memory-filters">
             <div class="col-lg-12">
               <span>
                 <input class="form-check-input me-2" type="checkbox" />
@@ -169,5 +195,13 @@
       crossorigin="anonymous"
     ></script>
     <script src="./js/products.js"></script>
+    <script>
+      const popoverTriggerList = document.querySelectorAll(
+        '[data-bs-toggle="popover"]',
+      )
+      const popoverList = [...popoverTriggerList].map(
+        (popoverTriggerEl) => new bootstrap.Popover(popoverTriggerEl),
+      )
+    </script>
   </body>
 </html>

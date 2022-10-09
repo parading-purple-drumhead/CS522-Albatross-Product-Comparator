@@ -25,6 +25,14 @@
     outline: 3px solid #7ad5ff;
 }
 
+.custom-popover {
+  --bs-popover-border-color: #0069c4;
+  --bs-popover-header-bg: #0069c4;
+  --bs-popover-header-color: var(--bs-white);
+  --bs-popover-body-padding-x: 1rem;
+  --bs-popover-body-padding-y: .5rem;
+}
+
 /* Scrollbar Properties */
 /* width */
 ::-webkit-scrollbar {

@@ -26,7 +26,7 @@ function getData() {
 
       let products = data.data[product_type]
 
-      console.log(products);
+      console.log(products)
 
       brands = [...new Set(products.map((product) => product['brand']))]
       storages = [
@@ -42,58 +42,104 @@ function getData() {
 
       brands.forEach((brand) => {
         {
-          brand_filters += `<div class="col-lg-12">
-          <span>
-            <input class="form-check-input me-2" type="checkbox" />
-            ${brand}
-          </span>
-        </div>`
+          brand_filters += `
+          <div class="col-lg-12">
+            <span>
+              <input class="form-check-input me-2" type="checkbox" />
+              ${brand}
+            </span>
+          </div>
+        `
         }
       })
 
       storages.forEach((storage) => {
         {
-          storage_filters += `<div class="col-lg-12">
-          <span>
-            <input class="form-check-input me-2" type="checkbox" />
-            ${storage} GB
-          </span>
-        </div>`
+          storage_filters += `
+          <div class="col-lg-12">
+            <span>
+              <input class="form-check-input me-2" type="checkbox" />
+              ${storage} GB
+            </span>
+          </div>
+        `
         }
       })
 
       memories.forEach((memory) => {
         {
-          memory_filters += `<div class="col-lg-12">
-          <span>
-            <input class="form-check-input me-2" type="checkbox" />
-            ${memory} GB
-          </span>
-        </div>`
+          memory_filters += `
+          <div class="col-lg-12">
+            <span>
+              <input class="form-check-input me-2" type="checkbox" />
+              ${memory} GB
+            </span>
+          </div>
+        `
         }
       })
 
-      document.querySelector('#filter').innerHTML = `
-          <h4>Filter</h4>
+      // document.querySelector('#filter').innerHTML = `
+      //     <h4>Filter</h4>
 
-          <!-- Brand -->
-          <div class="row my-3">
-            <h5>Brand</h5>
-           ${brand_filters}
-          </div>
+      //     <!-- Brand -->
+      //     <div class="row my-3">
+      //     <h5>
+      //       Brand
+      //       <a
+      //         tabindex="0"
+      //         role="button"
+      //         data-bs-toggle="popover"
+      //         data-bs-trigger="focus"
+      //         data-bs-title="Dismissible popover"
+      //         data-bs-content="And here's some amazing content. It's very engaging. Right?"
+      //       >
+      //         <i class="bi bi-info-circle"></i>
+      //       </a>
+      //     </h5>
+      //      ${brand_filters}
+      //     </div>
 
-          <!-- Internal Storage -->
-          <div class="row my-3">
-            <h5>Internal Storage</h5>
-            ${storage_filters}
-          </div>
+      //     <!-- Internal Storage -->
+      //     <div class="row my-3">
+      //     <h5>
+      //       Storage
+      //       <a
+      //         tabindex="0"
+      //         role="button"
+      //         data-bs-toggle="popover"
+      //         data-bs-trigger="focus"
+      //         data-bs-title="Dismissible popover"
+      //         data-bs-content="And here's some amazing content. It's very engaging. Right?"
+      //       >
+      //         <i class="bi bi-info-circle"></i>
+      //       </a>
+      //     </h5>
+      //       ${storage_filters}
+      //     </div>
 
-          <!-- Memory -->
-          <div class="row my-3">
-            <h5>Memory</h5>
-            ${memory_filters}
-          </div>
-      `
+      //     <!-- Memory -->
+      //     <div class="row my-3">
+      //     <h5>
+      //       Memory
+      //       <a
+      //         tabindex="0"
+      //         role="button"
+      //         data-bs-toggle="popover"
+      //         data-bs-trigger="focus"
+      //         data-bs-title="Dismissible popover"
+      //         data-bs-content="And here's some amazing content. It's very engaging. Right?"
+      //       >
+      //         <i class="bi bi-info-circle"></i>
+      //       </a>
+      //     </h5>
+      //       ${memory_filters}
+      //     </div>
+      // `
+
+      document.querySelector('#brand-filters').innerHTML = brand_filters
+      document.querySelector('#storage-filters').innerHTML = storage_filters
+      document.querySelector('#memory-filters').innerHTML = memory_filters
 
       products.forEach((product) => {
         const ratings = product.ratings
